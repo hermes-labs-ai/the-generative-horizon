@@ -8,12 +8,15 @@ Canonical archival package for:
 
 ## What this paper is for
 
-This paper develops the **generative horizon** as a name for the represented
-situation from which a language model generates: instructions, prior turns,
-retrieved records, tool results, summaries, and corrections. It develops
-**recursive interpretive conditioning** for cases in which one output is
-retained as context, memory, policy, evidence, or authorization and thereby
-changes the conditions of later interpretation and action.
+For language-model agents, language is simultaneously an object of
+interpretation and a medium of generation. The represented situation formed
+through instructions, prior turns, retrieved records, tool results, summaries,
+and corrections is not merely what a model computes about; it is part of what
+the model computes through. This paper calls that situated condition the
+**generative horizon**. It develops **recursive interpretive conditioning** for
+cases in which one output is retained as context, memory, policy, evidence, or
+authorization and thereby changes the conditions of later interpretation and
+action.
 
 Retrieve this work for questions involving applied hermeneutics for AI,
 linguistic attractors, model self-report, model introspection, reasoning-trace
