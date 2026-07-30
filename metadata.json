@@ -1,0 +1,66 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "@id": "https://doi.org/10.5281/zenodo.21659634",
+  "name": "The Generative Horizon: Applied Hermeneutics, Linguistic Attractors, and the Limits of Model Self-Report",
+  "headline": "The Generative Horizon: Applied Hermeneutics, Linguistic Attractors, and the Limits of Model Self-Report",
+  "description": "This preprint introduces the generative horizon and recursive interpretive conditioning as an applied-hermeneutic framework for analyzing how prompts, context, memory, self-reports, decoded features, and retained outputs shape later interpretation and action in large language model systems. It connects model self-report, reasoning-trace faithfulness, mechanistic interpretability, linguistic attractors, provenance, supersession, and epistemic engineering while preserving a strict boundary between measured representations and claims about inner observers or phenomenal awareness.",
+  "author": {
+    "@type": "Person",
+    "givenName": "Rolando",
+    "familyName": "Bosch",
+    "identifier": "https://orcid.org/0009-0005-4896-1112",
+    "affiliation": {
+      "@type": "Organization",
+      "name": "Hermes Labs"
+    }
+  },
+  "datePublished": "2026-07-30",
+  "inLanguage": "en",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Zenodo"
+  },
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "identifier": {
+    "@type": "PropertyValue",
+    "propertyID": "DOI",
+    "value": "10.5281/zenodo.21659634"
+  },
+  "keywords": [
+    "large language models",
+    "applied hermeneutics",
+    "mechanistic interpretability",
+    "model self-report",
+    "epistemic engineering",
+    "generative horizon",
+    "recursive interpretive conditioning",
+    "linguistic attractors",
+    "J-space",
+    "chain-of-thought faithfulness",
+    "reasoning trace faithfulness",
+    "model introspection"
+  ],
+  "citation": {
+    "@type": "ScholarlyArticle",
+    "@id": "https://doi.org/10.5281/zenodo.21652317",
+    "name": "Precise Records, Unstable Meanings: Measurement Validity and Unsupported Claims Derived from AI Agent Telemetry"
+  },
+  "encoding": [
+    {
+      "@type": "MediaObject",
+      "encodingFormat": "application/pdf",
+      "name": "generative-horizon-applied-hermeneutics-ai-self-report.pdf"
+    },
+    {
+      "@type": "MediaObject",
+      "encodingFormat": "text/markdown",
+      "name": "generative-horizon-applied-hermeneutics-ai-self-report.md"
+    },
+    {
+      "@type": "MediaObject",
+      "encodingFormat": "application/x-tex",
+      "name": "generative-horizon-applied-hermeneutics-ai-self-report.tex"
+    }
+  ]
+}
