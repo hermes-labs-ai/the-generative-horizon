@@ -1,0 +1,38 @@
+# The Generative Horizon
+
+Archival repository for a Hermes Labs Zenodo preprint. Read the paper
+at https://hermes-labs.ai/research/the-generative-horizon or cite the DOI directly.
+
+## What this is
+
+For language-model agents, language is simultaneously an object of interpretation and a medium of generation. This paper calls that situated condition the generative horizon and develops recursive interpretive conditioning for cases in which one output is retained as context, memory, policy, evidence, or authorization and thereby changes the conditions of later interpretation and action. It does not attribute human historical consciousness, an inner observer, privileged access, or phenomenal awareness to a language model.
+
+## Canonical identity
+
+- Title: The Generative Horizon: Applied Hermeneutics, Linguistic Attractors, and the Limits of Model Self-Report
+- Author: Rolando Bosch, Hermes Labs (ORCID 0009-0005-4896-1112)
+- DOI (concept, version-independent): 10.5281/zenodo.21659633
+- DOI (current version): 10.5281/zenodo.21659634
+- Publication date: 2026-07-30
+- License: CC BY 4.0
+- Canonical HTML edition: https://hermes-labs.ai/research/the-generative-horizon
+- Hosted PDF: https://hermes-labs.ai/papers/generative-horizon-applied-hermeneutics-ai-self-report.pdf
+- Publication index entry: https://github.com/hermes-labs-ai/hermes-publications/tree/main/papers/generative-horizon
+- Repository: https://github.com/hermes-labs-ai/the-generative-horizon
+
+## Evidence boundary
+
+Mechanistic evidence and model-generated reports are treated as representations whose evidential status must be established rather than assumed. The paper does not attribute an inner observer, privileged access, or phenomenal awareness to a language model.
+
+Not peer reviewed. Deposited on Zenodo, which assigns a DOI without refereeing.
+
+## Not affiliated
+
+Hermes Labs is not affiliated with NousResearch, Teknium, the Nous-Hermes LLM
+line, or the unrelated `hermes-agent` project.
+
+## Citation
+
+See CITATION.cff and CITATION.bib in this repository, or:
+
+Bosch, R. (2026). The Generative Horizon: Applied Hermeneutics, Linguistic Attractors, and the Limits of Model Self-Report. Zenodo. https://doi.org/10.5281/zenodo.21659633
