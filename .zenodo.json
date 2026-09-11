@@ -1,0 +1,43 @@
+{
+  "title": "The Generative Horizon: Applied Hermeneutics, Linguistic Attractors, and the Limits of Model Self-Report",
+  "upload_type": "publication",
+  "publication_type": "preprint",
+  "description": "For language-model agents, language is simultaneously an object of interpretation and a medium of generation. This paper calls that situated condition the generative horizon and develops recursive interpretive conditioning for cases in which one output is retained as context, memory, policy, evidence, or authorization and thereby changes the conditions of later interpretation and action. It does not attribute human historical consciousness, an inner observer, privileged access, or phenomenal awareness to a language model.",
+  "creators": [
+    {
+      "name": "Bosch, Rolando",
+      "orcid": "0009-0005-4896-1112",
+      "affiliation": "Hermes Labs, San Francisco, California, USA"
+    }
+  ],
+  "keywords": [
+    "large language models",
+    "applied hermeneutics",
+    "mechanistic interpretability",
+    "model self-report",
+    "epistemic engineering",
+    "generative horizon",
+    "recursive interpretive conditioning",
+    "linguistic attractors",
+    "J-space",
+    "chain-of-thought faithfulness",
+    "reasoning trace faithfulness",
+    "model introspection"
+  ],
+  "license": "CC-BY-4.0",
+  "access_right": "open",
+  "publication_date": "2026-07-30",
+  "related_identifiers": [
+    {
+      "identifier": "10.5281/zenodo.21659633",
+      "relation": "isIdenticalTo",
+      "scheme": "doi"
+    },
+    {
+      "identifier": "https://hermes-labs.ai/research/the-generative-horizon",
+      "relation": "isIdenticalTo",
+      "scheme": "url"
+    }
+  ],
+  "_comment": "This file mirrors the canonical Zenodo record (10.5281/zenodo.21659633, concept DOI) for discovery. The paper is already deposited directly on Zenodo. Do NOT connect this repository to the Zenodo GitHub integration / webhook: doing so would mint a second, duplicate DOI on the next GitHub release instead of pointing at the existing canonical record. Keep the GitHub-Zenodo integration OFF for this repository, exactly as hermes-publications already does."
+}

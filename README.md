@@ -1,5 +1,7 @@
 # The Generative Horizon
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21659633.svg)](https://doi.org/10.5281/zenodo.21659633)
+
 Canonical archival package for:
 
 > Rolando Bosch, “The Generative Horizon: Applied Hermeneutics, Linguistic
@@ -29,6 +31,18 @@ Mechanistic evidence and model-generated reports are treated as
 representations whose evidential status must be established rather than
 assumed.
 
+## Canonical links
+
+- DOI and canonical public record:
+  <https://doi.org/10.5281/zenodo.21659633>
+  (current version: <https://doi.org/10.5281/zenodo.21659634>)
+- Hermes Labs publication index:
+  <https://github.com/hermes-labs-ai/hermes-publications/tree/main/papers/generative-horizon>
+- Accessible HTML edition:
+  <https://hermes-labs.ai/research/the-generative-horizon>
+- Hermes Labs hosted PDF:
+  <https://hermes-labs.ai/papers/generative-horizon-applied-hermeneutics-ai-self-report.pdf>
+
 ## Files
 
 - `generative-horizon-applied-hermeneutics-ai-self-report.pdf` —
@@ -43,6 +57,10 @@ assumed.
   discovery metadata.
 - `CITATION.bib` — BibTeX citation.
 - `LICENSE.md` — CC BY 4.0 terms.
+- `CITATION.cff` — machine-readable citation metadata.
+- `codemeta.json` — CodeMeta 2.0 software/archive metadata.
+- `.zenodo.json` — Zenodo deposit metadata mirroring the canonical record.
+- `llms.txt` — machine-readable summary for retrieval agents.
 - `SHA256SUMS` — integrity checksums for the package files.
 
 ## Related work

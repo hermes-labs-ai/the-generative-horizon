@@ -4,7 +4,7 @@ title: "The Generative Horizon: Applied Hermeneutics, Linguistic Attractors, and
 abstract: "For language-model agents, language is simultaneously an object of interpretation and a medium of generation. This paper calls that situated condition the generative horizon and develops recursive interpretive conditioning for cases in which one output is retained as context, memory, policy, evidence, or authorization and thereby changes the conditions of later interpretation and action. It does not attribute human historical consciousness, an inner observer, privileged access, or phenomenal awareness to a language model; mechanistic evidence and model-generated reports are treated as representations whose evidential status must be established rather than assumed."
 type: software
 authors:
-  - family-names: "Bosch Rodriguez"
+  - family-names: "Bosch"
     given-names: "Rolando"
     orcid: "https://orcid.org/0009-0005-4896-1112"
     affiliation: "Hermes Labs"
@@ -21,7 +21,7 @@ preferred-citation:
   type: article
   title: "The Generative Horizon: Applied Hermeneutics, Linguistic Attractors, and the Limits of Model Self-Report"
   authors:
-    - family-names: "Bosch Rodriguez"
+    - family-names: "Bosch"
       given-names: "Rolando"
       orcid: "https://orcid.org/0009-0005-4896-1112"
       affiliation: "Hermes Labs"
